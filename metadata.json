@@ -1,0 +1,6 @@
+{
+  "name": "BioKlasika - Klasifikasi Makhluk Hidup Interaktif",
+  "description": "Media pembelajaran interaktif materi Klasifikasi Makhluk Hidup lengkap dengan Apersepsi Kritis, Pertemuan 1-3, Kuis TGT Sang King 8 Kelompok, dan Post-Test 30 Soal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
